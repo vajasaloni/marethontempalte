@@ -1,0 +1,304 @@
+.body
+{
+	display: flex;
+	justify-content: center;
+
+
+}
+.centener
+{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+
+
+}
+.cheakboox
+{
+	width: 20px;
+	height: 20px;
+	position: relative;
+	top: 15px;
+	background-color: #003153;
+	left: 100px;
+}
+.cheakboox2
+{
+  position: absolute;
+  height: 15px;
+  width: 13px;
+  top:20px;
+  left: 107px;
+  background-color: rgb(15,122,96);
+}
+.name
+{
+	height: 20PX;
+	position: relative;
+	width: 150PX;
+	top: -25PX;
+	left: 150PX;
+	color: #ED7014;
+}
+.name1
+{
+	height: 20px;
+	position: relative;
+	width: 60px;
+	top: -66px;
+	left : 290px;
+}
+.imag
+{
+	position: absolute;
+	height: 50px;
+	width: 10px;
+	top: 100px;
+	left: 80px;
+}
+.we
+{
+	position: absolute;
+	height: 250px;
+	width: 250px;
+	top: -4px;
+	opacity: 0.8;
+    border-bottom-left-radius:120px; 
+    border-bottom-right-radius:120px;
+	left: 540px;
+    background-color: rgb(15,122,96);
+}
+.we1
+{
+	text-align: center;
+	color: white;
+	padding-top: 50px;
+	font-size: 20px;
+	letter-spacing: 5px;
+}
+.our
+{
+	position: absolute;
+	height: 20px;
+	width: 20px;
+	font-size: 20px;
+	color: rgb(15,122,96);
+	top: 465px;
+    left: 240px;
+}
+.service
+{ 
+	position: absolute;
+	height: 20px;
+	width: 20px;
+	font-size: 20px;
+	color: rgb(15,122,96);
+	top: 465px;
+	left: 300px;
+}
+.o1
+{
+	position: absolute;
+	height: 35px;
+	width: 30px;
+	font-size: 30px;
+	color: #ED7014;
+	top: 500px;
+	left: 100px;
+}
+.can
+{
+	position: absolute;
+	height: 15px;
+	width: 60px;
+	color: rgb(15,122,96);
+	top: 520px;
+	left: 160px;
+}
+.can1
+{
+	position: absolute;
+	height: 15px;
+	border-width: 60px;
+	color: rgb(15,122,96);
+	top: 520px;
+	left: 290px;
+}
+.con
+{
+	position: absolute;
+	top: 540px;
+	left: 160px;
+}
+.o2
+{
+	position: absolute;
+	height: 35px;
+	width: 30px;
+	font-size: 30px;
+	color: #ED7014;
+	top: 600px;
+	left: 100px;
+}
+.dis
+{
+	position: absolute;
+	height: 15px;
+	width: 60px;
+	color: rgb(15,122,96);
+	top: 620px;
+	left: 160px;
+}
+.dis2
+{
+	position: absolute;
+	top: 620px;
+	height: 15px;
+	width: 60px;
+	left: 290px;
+	color: rgb(15,122,96);
+}
+.con2
+{
+	position: absolute;
+	top: 640px;
+	left: 170px;
+}
+.o3
+{
+    position: absolute;
+	height: 35px;
+	width: 30px;
+	font-size: 30px;
+	color: #ED7014;
+	top: 690px;
+	left: 100px;
+}
+.sm
+{
+	position: absolute;
+	height: 15px;
+	width: 60px;
+	color: rgb(15,122,96);
+	top: 710px;
+	left: 160px;
+}
+.sm1
+{
+	position: absolute;
+	top: 710px;
+	height: 15px;
+	width: 60px;
+	left: 290px;
+	color: rgb(15,122,96);
+}
+.con3
+{
+	position: absolute;
+	top: 730px;
+	left: 160px;
+}
+.aboutus
+{
+	position: absolute;
+	height:150px;
+    top: 470px;
+	width:300px;
+	left: 530px;
+	background-color: rgb(15,122,96);
+}  
+.about
+{
+	position: absolute;
+	height: 50px;
+	white-space: 50px;
+	left: 60px;
+	font-size: 20px;
+	color: white;
+} 
+.us
+{
+	position: absolute;
+	height: 50px;
+	width: 50px;
+	left: 180px;
+	font-size: 20px;
+	color: white;
+}
+.cont
+{
+	position: absolute;
+	left: 50px;
+	color: white;
+	font-size: 20px;
+	top: 40px;
+}
+.contactus
+{
+	position: absolute;
+	height: 130px;
+	width: 300px;
+	left: 0px;
+	top: 150px;
+	background-color: #ED7014;
+}
+.contact
+{
+	position: absolute;
+	height: 30px;
+	width: 30px;
+	font-size: 10px;
+	color: white;
+	left: 80px;
+
+}
+.us1
+{
+	position: absolute;
+	height: 30px;
+	width: 30px;
+	font-size: 10px;
+	color: white;
+	left: 160px;
+}
+.cont1
+{
+	position: absolute;
+	font-size: 22px;
+	top: 10px;
+	color: white;
+	left: 60px;
+}
+.cont2
+{
+	position: absolute;
+	font-size: 22px;
+	top: 50px;
+	left: 60px;
+	color: white;
+}
+.com
+{
+	position: relative;
+	height: 90px;
+	width: 300px;
+	top: 130px;
+	background-color: lightgray;
+}
+.ww
+{
+	position: absolute;
+	text-align: center;
+	top: 30px;
+	color: white;
+	left: 80px;
+}
+.line
+{
+	position: absolute;
+	background-color:  #ED7014;
+	height: 10px;
+	width: 805px;
+	top: 260px;
+	left: -435px;
+}
